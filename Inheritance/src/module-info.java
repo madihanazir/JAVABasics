@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Madiha
+ *
+ */
+module Inherit {
+}
